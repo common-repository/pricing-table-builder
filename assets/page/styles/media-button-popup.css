@@ -1,0 +1,13 @@
+.thickbox-loading {
+	max-width: 350px ;
+	max-height: 300px ;
+	margin-left: -250px !important;
+	top: 188px !important;
+}
+#sgpt-buttons-id {
+	min-width: 288px;
+}
+.not-selected-notice-message {
+	color: red;
+	margin-left: 3px;
+}
